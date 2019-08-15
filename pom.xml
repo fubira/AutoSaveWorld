@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.ironingot</groupId>
   <artifactId>AutoSaveWorld</artifactId>
-  <version>4.16-SNAPSHOT</version>
+  <version>4.15-CB1.13.2-SNAPSHOT</version>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

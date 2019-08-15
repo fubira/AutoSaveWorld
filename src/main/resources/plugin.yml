@@ -1,7 +1,7 @@
 name: AutoSaveWorld
 main: autosaveworld.core.AutoSaveWorld
-version: 4.15
-author: _Shevchik_
+version: 4.15-CB1.13.2
+author: [_Shevchik_, fubira]
 load: STARTUP
 commands:
   autosaveworld:
